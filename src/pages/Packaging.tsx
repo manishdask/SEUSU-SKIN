@@ -37,7 +37,7 @@ export default function Packaging() {
 
       {/* ── HERO ──────────────────────────────────────── */}
       <div className="relative py-36 overflow-hidden"
-        style={{ background: 'linear-gradient(145deg, #6b2e10 0%, #c0622a 50%, #E88B4D 100%)' }}>
+       style={{ background: 'linear-gradient(145deg, #0d2137 0%, #1a3d5c 40%, #2d6090 100%)' }}>
         <div className="absolute inset-0 pointer-events-none"
           style={{ background: 'linear-gradient(to right, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.1) 60%, transparent 100%)' }} />
         <div className="absolute inset-0 opacity-[0.06] pointer-events-none"
